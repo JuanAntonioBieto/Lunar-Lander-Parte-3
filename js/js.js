@@ -131,7 +131,7 @@ window.onload = function(){
 	document.getElementById("about").onclick = function () {
 		salir=confirm("¿Desea salir de esta página?");
 		if(salir){
-			window.open("about.html",);
+			window.open("about.html");
 		}
 	}
 }
