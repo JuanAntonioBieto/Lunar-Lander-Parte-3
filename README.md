@@ -1,6 +1,7 @@
 # Lunar-Lander-Parte-3
 
-Link del rawgit:https://rawgit.com/JuanAntonioBieto/Lunar-Lander-Parte-3/master/index.html
+Link del rawgit: https://rawgit.com/JuanAntonioBieto/Lunar-Lander-Parte-3/master/index.html
+Link del minificado: https://github.com/JuanAntonioBieto/Lunar-Lander-Parte-3/tree/Minificada
 
 
 # Modificaciones respecto a la versión anterior :
