@@ -93,7 +93,7 @@
 #facil{
 	position:fixed;
 	left:40%;
-	top:37%;
+	top:40%;
 	display:none;
 	z-index:5;
 	height:5%;
@@ -102,7 +102,7 @@
 #normal{
 	position:fixed;
 	left:47%;
-	top:37%;
+	top:40%;
 	display:none;
 	z-index:5;
 	height:5%;
@@ -112,7 +112,7 @@
 #dificil{
 	position:fixed;
 	left:55%;
-	top:37%;
+	top:40%;
 	display:none;
 	z-index:5;
 	height:5%;
