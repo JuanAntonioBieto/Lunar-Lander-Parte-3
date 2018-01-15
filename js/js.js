@@ -211,7 +211,7 @@ function moverNave(){
 }	
 function motorOn(){
 	//Cambiar a la nave con fuego
-	document.getElementById("nave1").src="img/navefuego.png"
+	document.getElementById("nave1").src="img/Navefuego.png"
 	//Cambiar el boton On-Off
 	document.getElementById("Power").src="img/on.png"
 	//el motor da aceleración a la nave
@@ -227,7 +227,7 @@ function motorOn(){
 }
 function motorOff(){
 	//Cambiar a la nave normal
-	document.getElementById("nave1").src="img/nave.png"
+	document.getElementById("nave1").src="img/Nave.png"
 	//Cambiar el boton On-Off
 	document.getElementById("Power").src="img/off.png"
 	a=g;
