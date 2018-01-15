@@ -124,7 +124,7 @@ window.onload = function(){
 	document.getElementById("instrucciones").onclick = function () {
 		salir=confirm("¿Desea salir de esta página?");
 		if(salir){
-			window.open("info.html");
+			window.open("Info.html");
 		}
 	}
 	//Botón about
